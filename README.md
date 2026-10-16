@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KlleberJose&color=F89820&style=flat-square&label=Visitas" />
-  <img src="https://img.shields.io/github/followers/KlleberJose?style=flat-square&color=7aa2f7&label=Seguidores" />
 </p>
 
 ---
