@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KlleberJose&color=F89820&style=flat-square&label=Visitas" />
-</p>
-
 ---
 
 ## 👋 Sobre mim
